@@ -59,17 +59,18 @@ main a {
 
 /* Orange */
 Hex orange
-.orange{
+.box orange-hex{
+    color: orange hex;
 background-color: #ff6600;
 }
 
 RGB orange
-.orange{
+.box orange-rgb{
 background-color: rgb(255, 102, 0);
 }
 
 HSL orange
-.orange{
+.box orange-hsl{
 background-color:hsl(24, 100%, 50%);
 }
 
