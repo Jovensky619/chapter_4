@@ -7,9 +7,9 @@
 /* CSS Rest*/
 
 body, header, nav, footer {
-    margin: 5;
-    padding: 5;
-    border: 5;
+    margin: 0;
+    padding: 0;
+    border: 0;
     }
 
     /* Style rule for body and image*/
